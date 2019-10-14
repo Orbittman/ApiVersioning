@@ -1,0 +1,14 @@
+C:\Users\Tim.Barton\source\repos\ApiVersioning\bin\Debug\netcoreapp2.2\ApiVersioning.deps.json
+C:\Users\Tim.Barton\source\repos\ApiVersioning\bin\Debug\netcoreapp2.2\ApiVersioning.runtimeconfig.json
+C:\Users\Tim.Barton\source\repos\ApiVersioning\bin\Debug\netcoreapp2.2\ApiVersioning.runtimeconfig.dev.json
+C:\Users\Tim.Barton\source\repos\ApiVersioning\bin\Debug\netcoreapp2.2\ApiVersioning.dll
+C:\Users\Tim.Barton\source\repos\ApiVersioning\obj\Debug\netcoreapp2.2\ApiVersioning.csprojAssemblyReference.cache
+C:\Users\Tim.Barton\source\repos\ApiVersioning\obj\Debug\netcoreapp2.2\ApiVersioning.csproj.CoreCompileInputs.cache
+C:\Users\Tim.Barton\source\repos\ApiVersioning\obj\Debug\netcoreapp2.2\ApiVersioning.RazorAssemblyInfo.cache
+C:\Users\Tim.Barton\source\repos\ApiVersioning\obj\Debug\netcoreapp2.2\ApiVersioning.RazorAssemblyInfo.cs
+C:\Users\Tim.Barton\source\repos\ApiVersioning\obj\Debug\netcoreapp2.2\ApiVersioning.AssemblyInfoInputs.cache
+C:\Users\Tim.Barton\source\repos\ApiVersioning\obj\Debug\netcoreapp2.2\ApiVersioning.AssemblyInfo.cs
+C:\Users\Tim.Barton\source\repos\ApiVersioning\obj\Debug\netcoreapp2.2\ApiVersioning.RazorTargetAssemblyInfo.cache
+C:\Users\Tim.Barton\source\repos\ApiVersioning\bin\Debug\netcoreapp2.2\ApiVersioning.pdb
+C:\Users\Tim.Barton\source\repos\ApiVersioning\obj\Debug\netcoreapp2.2\ApiVersioning.dll
+C:\Users\Tim.Barton\source\repos\ApiVersioning\obj\Debug\netcoreapp2.2\ApiVersioning.pdb
